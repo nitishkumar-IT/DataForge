@@ -1,0 +1,2 @@
+CURRENT_DATASET = None
+MODEL = None
